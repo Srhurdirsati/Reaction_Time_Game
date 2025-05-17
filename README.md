@@ -37,8 +37,7 @@ Created using EasyEDA. Bottom layer includes personalized artwork/text using SVG
 
 ![PCB](https://github.com/user-attachments/assets/f594c19a-f6fd-4aa2-a766-2f9d6ab612d7)
 
-![3D View](https://github.com/user-attachments/assets/bddb822b-cb57-4836-b3d2-fddb70d29a5b)
-
+![image](https://github.com/user-attachments/assets/1b909036-4e63-4541-8680-a3802cfb7ecf)
 
 ---
 
