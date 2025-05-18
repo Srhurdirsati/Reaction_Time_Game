@@ -33,11 +33,11 @@ Created using EasyEDA. Bottom layer includes personalized artwork/text using SVG
 
 ## 📷 Project Photos 
 
-![Schematic](https://github.com/user-attachments/assets/64a3a94e-4ba2-4dc9-8cef-a0bcaa4168a3)
+![Schematic](https://github.com/user-attachments/assets/a915138d-9e1f-4b7e-8db8-e8a6d5d0b0bf)
 
-![PCB](https://github.com/user-attachments/assets/f594c19a-f6fd-4aa2-a766-2f9d6ab612d7)
+![PCB](https://github.com/user-attachments/assets/d8fdb0b4-f76a-4639-910c-2fbcdec67481)
 
-![image](https://github.com/user-attachments/assets/1b909036-4e63-4541-8680-a3802cfb7ecf)
+![3D View](https://github.com/user-attachments/assets/6c143769-13f7-4366-a03b-b9763257ae6b)
 
 ---
 
